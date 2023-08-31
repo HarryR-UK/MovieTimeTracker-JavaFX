@@ -22,7 +22,7 @@
             <Font name="Farah Regular" size="21.0" />
          </font>
       </Button>
-      <Label alignment="CENTER" layoutX="2.0" layoutY="14.0" prefHeight="17.0" prefWidth="588.0" text="BALLS" textFill="WHITE">
+      <Label alignment="CENTER" layoutX="2.0" layoutY="14.0" prefHeight="17.0" prefWidth="588.0" text="MOVIES" textFill="WHITE">
          <font>
             <Font name="System Bold" size="33.0" />
          </font>
